@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nicoleadriane
-- 👀 I’m interested in begginers code
+- 👀 I’m interested in Hubspot code
 - 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on starter projects
+- 💞️ I’m looking to collaborate on hubspot projects
 - 📫 How to reach me nicoleadriane.s@gmail.com
 
 <!---
